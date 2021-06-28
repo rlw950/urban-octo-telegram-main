@@ -1,15 +1,15 @@
 # urban-octo-telegram-main
 
 # Code Refactor Starter Code
-#ASSIGNMENT: TO REFRACTOR EXISTING CODE
+ASSIGNMENT: TO REFRACTOR EXISTING CODE
 
-#index.html changes
+index.html changes
 
-#Changed <div class="header"> to <section class="header"> in index.html
-#Changed <div class="content"> to <section class="content"> in index.html
-#Changed <div class="search-engine-optimization"> to <div id="search-engine-optimization" class="search-engine-optimization"> in index.html
-#Deleted footer
-#Added section titles
+Changed <div class="header"> to <section class="header"> in index.html
+Changed <div class="content"> to <section class="content"> in index.html
+Changed <div class="search-engine-optimization"> to <div id="search-engine-optimization" class="search-engine-optimization"> in index.html
+Deleted footer
+Added section titles
 
 style.css changes
 
