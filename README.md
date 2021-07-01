@@ -1,7 +1,14 @@
 # urban-octo-telegram-main
 
 # Code Refactor Starter Code
-ASSIGNMENT: TO REFRACTOR EXISTING CODE
+ASSIGNMENT: TO REFRACTOR EXISTING CODE AND CLEAN UP STYLES
+
+Link to active website: https://rlw950.github.io/urban-octo-telegram-main/
+
+Screenshot of active website:
+
+
+Link to github: https://github.com/rlw950/urban-octo-telegram-main
 
 index.html changes
 
