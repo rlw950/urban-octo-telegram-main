@@ -9,7 +9,7 @@ body {
     color: #ffffff;
 }
 
-/* apply styles to <header> */
+/* apply styles to header */
 
 .header {
     padding: 20px;
@@ -23,7 +23,7 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header h1 seo {
     color: #d9dcd6;
 }
 
